@@ -80,11 +80,9 @@ email: ""
 # - Visitors
 ---
 
-Melik Yazici is a post doctoral researcher at the SUMER (Sabanci University MicroElectronics Research) Lab. His research interests include high frequency, analog, and digital integrated circuits. His focuses are communicaton and RADAR front-end circuits, measurement technologies, ROICs for infrared detectors, and VLSI. He is a member of IEEE.
+Melik Yazici is a post doctoral researcher at the SUMER (Sabanci University MicroElectronics Research) Lab. His research interests include high frequency, analog, and digital integrated circuits. His focuses are communication and RADAR front-end circuits, measurement technologies, ROICs for infrared detectors, and VLSI. He is a member of IEEE.
 
-He currently leads a project investigating the role of the oxytocin system in the development of severe mental illness and metabolic disorder, which is supported by TUBITAK 1001.
-
-He is also contributing two different projects 
+He currently leads a project investigating the role of the full duplex rf front end for 5g phased arrays, which is supported by TUBITAK 1001. He is also contributing VLSI and RF ober projects as a researcher 
 
 Follow him on Twitter 
 
