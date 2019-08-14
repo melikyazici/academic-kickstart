@@ -21,10 +21,13 @@ organizations:
 bio: My research interests include high frequency, analog and digital integrated circuits.
 
 interests:
-- Communication and RADAR front-end circuits
-- Readout sensor interface circuits
+- mm-Wave circuits
+- 5G and Beyond Communication
 - Measurement technologies
-- mm-Wave
+- RADAR front-end
+- Analog, digital and mixed-mode IC
+- Sensor interface
+- Readout IC (ROIC) for infrared detectors
 - VLSI
 
 education:
