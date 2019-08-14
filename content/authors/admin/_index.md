@@ -15,7 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Sabanci University
-  url: "sumer.sabanciuniv.edu"
+  url: "http://www.sabanciuniv.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high frequency, analog and digital integrated circuits.
@@ -89,6 +89,6 @@ He is also contributing two different projects
 Follow him on Twitter 
 
 {{% alert note %}}
-For Master and PhD positions please check [SUMER webpage](http://sumer.sabanciuniv.edu) 
+For Master, PhD and Post-Doc positions please check [SUMER webpage](http://sumer.sabanciuniv.edu) 
 {{% /alert %}}
 

@@ -6,7 +6,7 @@ subtitle: "Researcher"
 summary: ""
 authors: []
 tags: []
-categories: []
+categories: [Academic]
 date: 2019-08-12T22:25:44+03:00
 lastmod: 2019-08-12T22:25:44+03:00
 featured: false
@@ -32,4 +32,4 @@ In recent years, we are observing more mmWAve devices around our world. One of t
 This project covers development of such dielectric material with various thicknesses and processing it for to be used for mmWave applications. 
 
 > **Status**: 2019 - Active  
-  **Support**: Industry
+  **Support**: Industry Partner

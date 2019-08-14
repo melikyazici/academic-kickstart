@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Active Projects"
-subtitle = ""
+title = "PURE Projects"
+subtitle = "Sabancı University Program for Undergraduate Research (PURE)"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-     name = "All"
-     tag = "*"
+ # [[content.filter_button]]
+ #    name = "All"
+ #    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "pure"
-  #   tag = "pure"
+  [[content.filter_button]]
+    name = "pure"
+    tag = "pure"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -75,3 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
+## What is PURE?
+"Sabancı University Program for Undergraduate Research (PURE) is intended for undergraduate students from all domestic and international universities who would like to pursue guided research projects. Undergraduate students at all levels can apply and they will be selected according to projects’ requirements and the background of the applicant. The goal of the program is to introduce undergraduate students to real research problems early in their studies."
+
+[More Information and Apply for PURE](https://pure.sabanciuniv.edu)
