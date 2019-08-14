@@ -78,3 +78,4 @@ subtitle = ""
 ## What is PURE?
 "Sabancı University Program for Undergraduate Research (PURE) is intended for undergraduate students from all domestic and international universities who would like to pursue guided research projects."
 [More Information and Apply](https://pure.sabanciuniv.edu)
+
