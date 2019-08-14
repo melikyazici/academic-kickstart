@@ -61,7 +61,7 @@ social:
   link: https://github.com/melikyazici
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/melikyazici
+  link: https://linkedin.com/in/melikyazici
 
 
 # Link to a PDF of your resume/CV from the About widget.
