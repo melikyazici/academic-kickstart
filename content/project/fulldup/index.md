@@ -5,7 +5,7 @@ title: "Full Duplex RF Front-End for 5G Phased Arrays"
 subtitle: "Principle Investigator"
 summary: ""
 authors: []
-tags: []
+tags: [academic]
 categories: []
 date: 2019-08-12T22:21:19+03:00
 lastmod: 2019-08-12T22:21:19+03:00

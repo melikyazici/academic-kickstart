@@ -5,7 +5,7 @@ title: "High Speed Low Latency IC Design for Blockchain Infrastructure"
 subtitle: "Researcher"
 summary: ""
 authors: []
-tags: []
+tags: [academic]
 categories: []
 date: 2019-08-12T22:25:01+03:00
 lastmod: 2019-08-12T22:25:01+03:00

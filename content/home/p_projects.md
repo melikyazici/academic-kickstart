@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "PURE Projects"
-subtitle = "Sabancı University Program for Undergraduate Research (PURE)"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = "Sabancı University Program for Undergraduate Research (PURE)"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -76,6 +76,6 @@ subtitle = "Sabancı University Program for Undergraduate Research (PURE)"
 +++
 
 ## What is PURE?
-"Sabancı University Program for Undergraduate Research (PURE) is intended for undergraduate students from all domestic and international universities who would like to pursue guided research projects. Undergraduate students at all levels can apply and they will be selected according to projects’ requirements and the background of the applicant. The goal of the program is to introduce undergraduate students to real research problems early in their studies."
+"Sabancı University Program for Undergraduate Research (PURE) is intended for undergraduate students from all domestic and international universities who would like to pursue guided research projects."
 
 [More Information and Apply for PURE](https://pure.sabanciuniv.edu)

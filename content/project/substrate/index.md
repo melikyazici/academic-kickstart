@@ -5,8 +5,8 @@ title: "High Performance RF Substrate Development"
 subtitle: "Researcher"
 summary: ""
 authors: []
-tags: []
-categories: [Academic]
+tags: [academic]
+categories: []
 date: 2019-08-12T22:25:44+03:00
 lastmod: 2019-08-12T22:25:44+03:00
 featured: false
