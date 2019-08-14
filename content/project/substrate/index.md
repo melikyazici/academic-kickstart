@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-In recent years, we are observing more mmWAve devices around our world. One of the most obvious example is automotive radar technology. Recent variations of this technology uses W-bant frequency. Integration of W-band chip and antenna requires special substrate material. This material should provide excellent substrate properties such as ultra low loss, constant dielectric constant throught the band, less temperature dependancy of electrical properties, easy to manufacture and so on. In other words, this material should provide stable dielectric properties for mmWave signals and antenna while keeping these properties constant from environmental changes.
+In recent years, we are observing more mmWave devices around our world. One of the most obvious example is automotive radar technology. Recent variations of this technology uses W-band frequency. Integration of W-band chip and antenna requires special substrate material. This material should provide excellent substrate properties such as ultra low loss, constant dielectric constant through the band, less temperature dependency of electrical properties, easy to manufacture and so on. In other words, this material should provide stable dielectric properties for mmWave signals and antenna while keeping these properties constant from environmental changes.
 
 This project covers development of such dielectric material with various thicknesses and processing it for to be used for mmWave applications. 
 
