@@ -85,7 +85,7 @@ email: ""
 
 Melik Yazici is a post doctoral researcher at the SUMER (Sabanci University MicroElectronics Research) Lab. His research interests include high frequency, analog, and digital integrated circuits. His current focuses are communication and RADAR front-end circuits, sensor and measurement technologies, and VLSI. He is a member of IEEE.
 
-He currently leads "The Full Duplex RF Front End for 5G Phased Arrays" project, which is supported by TUBITAK 1001. He is also contributing two mores [projects] (#projects).
+He currently leads "The Full Duplex RF Front End for 5G Phased Arrays" project, which is supported by TUBITAK 1001. He is also contributing two more [projects] (#projects).
 
 Follow him on [Twitter](https://twitter.com/melikyazici/)
 
